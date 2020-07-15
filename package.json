@@ -1,5 +1,6 @@
 {
     "name": "sprint_webpack",
+    "homepage": "https://trond1n.github.io/sprint_webpack/",
     "version": "0.0.1",
     "description": "homework for 11's sprint",
     "main": "sprint.js",
@@ -20,7 +21,8 @@
     "bugs": {
         "url": "https://github.com/trond1n/sprint_webpack/issues"
     },
-    "homepage": "https://trond1n.github.io/sprint_webpack/",
+
+
     "devDependencies": {
         "@babel/cli": "^7.10.5",
         "@babel/core": "^7.10.5",
