@@ -3,7 +3,7 @@
     "homepage": "https://trond1n.github.io/sprint_webpack/",
     "version": "0.0.1",
     "description": "homework for 11's sprint",
-    "main": "sprint.js",
+    "main": "./src/script/script.js",
     "scripts": {
         "build": "rm -rf dist && cross-env NODE_ENV=production webpack --mode production",
         "dev": "cross-env NODE_ENV=development webpack-dev-server --mode development --open --watch",
@@ -16,7 +16,7 @@
     "keywords": [
         "webpack"
     ],
-    "author": "",
+    "author": "Yuri Trondin <manctnzs@gmail.com> (https://t.me/jablaoslep)",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/trond1n/sprint_webpack/issues"
