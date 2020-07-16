@@ -1,3 +1,5 @@
+"use strict";
+
 export class Card {
     constructor(openImage) {
         this.openImage = openImage;

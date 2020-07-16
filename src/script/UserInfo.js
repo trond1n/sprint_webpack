@@ -1,3 +1,5 @@
+"use strict";
+
 export class UserInfo {
     constructor(name, job, infoName, infoJob, api) {
         this.infoName = infoName;

@@ -1,3 +1,5 @@
+"use strict";
+
 export class CardList {
     constructor(container, api, action) {
         this.container = container;

@@ -1,3 +1,5 @@
+"use strict";
+
 export class FormValidate {
     constructor(form, errors) {
         this.form = form;

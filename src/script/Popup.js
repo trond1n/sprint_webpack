@@ -1,3 +1,5 @@
+"use strict";
+
 export class Popup {
     constructor(container) {
         this.container = container;
