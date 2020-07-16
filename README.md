@@ -27,7 +27,7 @@ ES6, Babel, OOP, CSS3, HTML5, Webpack, OOP, BEM
 - [Cross-Env](https://www.npmjs.com/package/cross-env)
 
 ## Инструкции по запуску:
-- Скачать или склонировать репозитори
+- Скачать или склонировать репозиторий
 - Установить зависимости при помощи npm - `npm i`
 - Запустить в development режиме - `npm run dev`
 - Запустить сборку production-билда - `npm run build`
