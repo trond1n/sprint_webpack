@@ -9,9 +9,9 @@
   import "../pages/index.css";
 
   //переменные
-  const API_URL = NODE_ENV === 'production' ? 'https://praktikum.tk' : 'http://praktikum.tk';
+  const serverUrl = NODE_ENV === 'production' ? 'https://praktikum.tk' : 'http://praktikum.tk';
   const config = {
-      baseUrl: `${API_URL}/cohort11`,
+      baseUrl: `${serverUrl}/cohort11`,
       headers: {
           authorization: '0bc860eb-45ff-4d69-b605-9537aa6944c1',
           'Content-Type': 'application/json'
